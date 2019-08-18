@@ -1,0 +1,31 @@
+<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+  <div class="container">
+    <div class="d-flex flex-grow-1">
+      <span class="w-100 d-lg-none d-block"></span>
+      <a class="navbar-brand mx-0" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      <div class="w-100 text-right">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav-head">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+      </div>
+    </div>
+
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+
+    <div class="collapse navbar-collapse" id="nav-head">
+      {% if page_paths %}
+      <ul class="navbar-nav ml-auto">
+        {% for path in page_paths %}
+          {% assign my_page = site.pages | where: "path", path | first %}
+          {% if my_page.title %}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+          {% endif %}
+    </div>
+  </div>
+</nav>

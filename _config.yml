@@ -1,0 +1,25 @@
+title: "0x4 - Personal Blog"
+author: Dani Pragustia
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-redirect-from
+
+config:
+  date_format: "%b %-d, %Y"
+  date_format_short: "%b %-d"
+
+header_pages:
+- about.md
+- articles.md
+
+paginate: 5
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - lograth-jekyll.gemspec

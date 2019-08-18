@@ -1,0 +1,52 @@
+$color-primary: #6c757d !default;
+$color-primary-hover: #343a40 !default;
+
+.nav-link {
+  font-weight:bold;
+}
+
+.post-title {
+  color:$color-primary;
+}
+
+.post-title:hover {
+  color:$color-primary-hover;
+  text-decoration: none;
+}
+
+.item-article {
+  list-style-type: none;
+}
+
+.badge {
+  font-weight:500 !important;
+  text-transform: uppercase;
+  border-radius:0 !important;
+}
+
+.badge-big {
+  padding:10px 15px !important;
+}
+
+.navbar-toggler {
+  border-color:transparent !important;
+}
+
+.navbar-toggler:focus {
+  outline:0 !important;
+}
+
+blockquote {
+	border-left: 5px solid grey;
+	padding-left:10px;
+	color:grey;
+	font-size: 1.25rem;
+}
+
+.zeromb {
+  margin-bottom: 0 !important;
+}
+
+.zeromt {
+  margin-top: 0 !important;
+}
