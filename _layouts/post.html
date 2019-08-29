@@ -21,10 +21,24 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
     </p>
+    <button type="button" class="btn btn-secondary" id="btnFontsize" value="Normal">Normal Size</button>
   </header>
   <div class="text-justify" itemprop="articleBody" id="content">
     {{ content }}
   </div>
+  {% if site.github %}
+  <hr>
+  <div class="row">
+    <div class="col-md-auto">
+      <img class="img-fluid rounded-circle" src="https://github.com/{{ site.github | escape }}.png?size=80">
+    </div>
+    <div class="col-md-auto">
+      <h3>{{ site.author | escape }}</h3>
+      <p>{{ site.description_profile | escape }}</p>
+    </div>
+  </div>
+  <hr>
+  {% endif %}
   {% for tag in page.tags %}
     {% assign urltags = '/tags/' | append: tag %}
     <span class="badge badge-big badge-dark">{{ tag | escape }}</span>

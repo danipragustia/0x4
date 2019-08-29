@@ -1,9 +1,12 @@
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js/dist/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.15.0/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/combine/npm/bootstrap/dist/js/bootstrap.min.js"></script>
 
+<script src="https://cdn.jsdelivr.net/npm/plyr/dist/plyr.min.js" onload="const player = new Plyr('video', {captions: {active: true}});"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+
+<script src="{{ "/assets/js/main.js" | relative_url }}"></script>
 
 <footer>
   <div class="container">
