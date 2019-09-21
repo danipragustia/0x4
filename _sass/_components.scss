@@ -1,8 +1,13 @@
 $color-primary: #6c757d !default;
 $color-primary-hover: #343a40 !default;
 
+
 .nav-link {
   font-weight:bold;
+}
+
+.nav-link:hover {
+  color:rgba(255,255,255,1) !important;
 }
 
 .post-title {
