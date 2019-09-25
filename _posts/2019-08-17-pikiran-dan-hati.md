@@ -25,3 +25,4 @@ Solusi singkat adalah *mawas diri* , pemikiran setiap individu manusia selalu be
 - Lingkungan yang mendukung akan memberi stimulasi pikiran untuk berpikir lebih jernih.
 
 > There is no greater weapon than a prepared mind - Zhuge Liang
+
