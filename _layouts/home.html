@@ -21,7 +21,7 @@ layout: default
           <span>
             {% for tag in post.tags  %}
               {% assign urltags = '/tags/' | append: tag %}
-              <span class="badge badge-dark">{{ tag | escape }}</span>
+              <span class="badge bg-dark">{{ tag | escape }}</span>
             {% endfor %}
             {{ post.date | date: date_format }}
           </span>
