@@ -4,7 +4,7 @@ title: "reCAPTCHA"
 tags: [English, Development]
 ---
 
-Eyeryone has suffered annyoing moment when see reCAPTCHA coming on form. Often, the captcha can be very frustrating and waste of time.
+Everyone has suffered annyoing moment when see reCAPTCHA coming on form. Often, the captcha can be very frustrating and waste of time.
 
 ## What is reCAPTCHA?
 reCAPTCHA is systems to spot bots (automated systems) that attempt to access to the program or services, most primarily to do malicious things like spams, spread malware, and DDoS Attacks. Installation is very simple and convenience, and many webmasters use it. Doesn't need any hassle work and it works.
