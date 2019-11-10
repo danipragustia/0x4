@@ -3,7 +3,6 @@ author: Dani Pragustia
 github: danipragustia
 description_profile: "Only guy ramming code on computer."
 plugins:
-  - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-feed
   - jekyll-redirect-from

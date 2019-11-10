@@ -16,10 +16,10 @@ English isn't my primary language, for mostly time I using Bahasa Indonesia.
 - Mostly my music is <b>classical music</b>, but i like the music if it good at my taste
 - I enjoy book with genres like <b>science fiction, mystery, history</b>
 
-### How do i computing
+### My Computer
 
 I using old computer from 2015, still good for my daily use. All Software i use run smoothly without any problems. I am using <b>Alpine Linux</b> for OS with Windows 10 for sake of gaming, i cant run QEMU cause processor doesnt include with Intergrated Graphic Card.
-- Motherboard is <b>GA-78LMT-S2P</b>, I know this motherboard so bad, i buy it so cheap and i will replace soon with Good Motherboard with Support USB3.0 and SATA3
+- Motherboard is <b>GA-78LMT-S2P</b>, I know this motherboard so bad, will replace soon with Good Motherboard with Support USB3.0 and SATA3
 - Processor is <b>AMD FX-6300</b>, i using this process because it doesnt pre-built with the proprietary PSP (Platform Security Processor) module.
 - <b>8 GB DDR3</b>, this capable for multi-tasking, it doesnt load up so much on linux (highest using is 70%~ on full active workstation). no upgrade planning future.
 - <b>MSI Nvidia GT 730</b>, sometimes for killing-time i play retro game, and this good choice for me beside the price this GPU, this doesnt need external power.
@@ -29,3 +29,8 @@ I using old computer from 2015, still good for my daily use. All Software i use 
 Best way to contact me is email, if you want send me GPG-mail, you can send me your key and I'll do it too. For XMPP you need client support OMEMO.
 - E-Mail / XMPP : danipragustia [at] disroot [dot] org
 - Mastodon : danipragustia [at] niu [dot] moe
+
+
+For the note, I am not read public mail often, unless we have conversation before. But I would read it when I have time. 
+
+If you use Gm4il or <a href="https://github.com/mailcow/mailcow-dockerized/issues/2851" rel="noopener noreferrer" target="_blank">Hotm4il</a>, sometimes mail would to send to spam.

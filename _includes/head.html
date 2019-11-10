@@ -8,9 +8,17 @@
 
 <link rel="stylesheet" href="{{ "/assets/sass/main.css" | relative_url }}">
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/plyr/dist/plyr.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
 <link rel="stylesheet" href="https://cdn.statically.io/gh/twbs/bootstrap/master/dist/css/bootstrap.min.css">
 
 
-{% seo %}
+{% if page.title %}
+	<title>{{ page.title | escape }} - {{ site.title | escape }}</title>
+{% else %}
+	<title>{{ site.title | escape }}</title>
+{% endif %}
+
+<meta property="og:title" content="{{ site.title | escape }}">
+<meta name="author" content="{{ site.author }}">
+<meta property="og:locale" content="{{ page.lang | default: site.lang | default: "en" }}">
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
+<meta property="og:site_name" content="{{ site.title | escape }}"> 

@@ -10,3 +10,8 @@ $( "#btnFontsize" ).click(function() {
     $(this).html('Normal Size');
   }
 });
+
+$("#share-mastadon").click(function(e) {
+	e.preventDefault();
+    window.open(e.target.href, 'mastodon-intent', 'width=400,height=400,resizable=no,menubar=no,status=no,scrollbars=yes');
+});
