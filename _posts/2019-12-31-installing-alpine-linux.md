@@ -4,7 +4,9 @@ title: "Installing Alpine Linux"
 tags: [English, Linux]
 ---
 
+
 I'm using Debian Stable for almost 2 years ago, because this work out-of-box. I'm tried other distribution before like Ubuntu, Arch Linux and also NixOS, but still I came back to Debian when I always screw up something and Internet doesn't solve my problem.
+
 
 **NOTE : I'm not Linux Expert, I using Windows 10 for mostly time. This only my experience installing Alpine Linux on real computer.**
 
@@ -118,4 +120,5 @@ Using Desktop in Alpine Linux is like cross a river, your have to be prepared wi
 
 Source
 https://wiki.archlinux.org/index.php/USB_flash_installation_media#Using_dd
+
 https://wiki.alpinelinux.org/wiki/Installing_Alpine_on_HDD_dualbooting
