@@ -4,9 +4,9 @@ title: "Installing Alpine Linux"
 tags: [English, Linux]
 ---
 
+Everyone has suffered annyoing moment when see reCAPTCHA coming on form. Often, the captcha can be very frustrating and waste of time.
 
 I'm using Debian Stable for almost 2 years ago, because this work out-of-box. I'm tried other distribution before like Ubuntu, Arch Linux and also NixOS, but still I came back to Debian when I always screw up something and Internet doesn't solve my problem.
-
 
 **NOTE : I'm not Linux Expert, I using Windows 10 for mostly time. This only my experience installing Alpine Linux on real computer.**
 
@@ -113,7 +113,9 @@ Its very smooth nothing crash and annoying bug on Window Manager, but many packa
 
 ### Some bug encounter
 If your know anything for to fix this, please let me know.
+
 - **GTK** Issue on Firefox **(firefox-71.0-r1)**, Chromium **(79.0.3945.88-r0)** and GIMP **(2.10.12-r2)** or maybe effects to other GTK-based Application.
+
 
 ### Closing Up
 Using Desktop in Alpine Linux is like cross a river, your have to be prepared with coming waves. But after your pass it, your learn something.
