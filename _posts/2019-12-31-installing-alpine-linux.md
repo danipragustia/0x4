@@ -10,7 +10,7 @@ I'm using Debian Stable for almost 2 years ago, because this work out-of-box. I'
 
 **NOTE : I'm not Linux Expert, I using Windows 10 for mostly time. This only my experience installing Alpine Linux on real computer.**
 
-# Installing Alpine Linux
+## Setup Alpine Linux
 Download Alpine Linux ISO you can actually [download here](https://alpinelinux.org/downloads/) and install it to live media, in this case I will use dd command
 
 ```dd bs=4M if=path/to/alpine-linux.iso of=/dev/sdx status=progress oflag=sync```
@@ -53,7 +53,7 @@ And then, install Alpine Linux to partition.
 
 ```setup-disk -m sys /mnt```
 
-# Setup GRUB
+## Setup GRUB
 
 Boot to your Alpine Linux, and login as root. And then Install GRUB
 
@@ -106,7 +106,7 @@ sda
 
 You can see partition **sda2** UUID is **D4B6DB4FB6DB312A**
 
-# Test-Drive
+## Test-Drive
 I am testing this on super low-end computer, **AMD X2 240 @ 2.8GHz** with **2 GB RAM**. Window Manager I use for this test is **Sway**. Here some approach when I use Alpine Linux.
 
 Its very smooth nothing crash and annoying bug on Window Manager, but many packages is missing, some my basics is not there, but on **edge** repositories. I tried to add it on and I facing more **bugs** because package is still not quite yet to use.
@@ -119,6 +119,7 @@ If your know anything for to fix this, please let me know.
 Using Desktop in Alpine Linux is like cross a river, your have to be prepared with coming waves. But after your pass it, your learn something.
 
 Source
+
 https://wiki.archlinux.org/index.php/USB_flash_installation_media#Using_dd
 
 https://wiki.alpinelinux.org/wiki/Installing_Alpine_on_HDD_dualbooting
