@@ -2,11 +2,12 @@
 layout: post
 title: "Installing Alpine Linux"
 tags: [English, Linux]
+excerpt_separator: <!--more-->
 ---
 
-Everyone has suffered annyoing moment when see reCAPTCHA coming on form. Often, the captcha can be very frustrating and waste of time.
-
 I'm using Debian Stable for almost 2 years ago, because this work out-of-box. I'm tried other distribution before like Ubuntu, Arch Linux and also NixOS, but still I came back to Debian when I always screw up something and Internet doesn't solve my problem.
+
+<!--more-->
 
 **NOTE : I'm not Linux Expert, I using Windows 10 for mostly time. This only my experience installing Alpine Linux on real computer.**
 
