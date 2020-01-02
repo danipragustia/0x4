@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 # About
@@ -26,7 +26,8 @@ I using old computer from 2015, still good for my daily use. All Software i use 
 - <b>1 TB HDD Seagate Barracuda</b>, i often fill up my HDD, highest using is only 30%~. I always transfer my data off-site to Flash Drive / External HDD, need upgrade to SSD for speed time and good R/W.
 
 ### Contact
-Best way to contact me is email, if you want send me GPG-mail, you can send me your key and I'll do it too. For XMPP you need client support OMEMO.
+My public key can find [here](https://0x4.me/pubkey.txt)
+Best way to contact me is email, if you want send me GPG-mail, you can send me your key. For XMPP you need client support OMEMO.
 - E-Mail / XMPP : danipragustia [at] disroot [dot] org
 - Mastodon : danipragustia [at] niu [dot] moe
 
