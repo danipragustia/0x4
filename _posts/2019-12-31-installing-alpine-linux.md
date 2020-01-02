@@ -122,7 +122,5 @@ If your know anything for to fix this, please let me know.
 Using Desktop in Alpine Linux is like cross a river, your have to be prepared with coming waves. But after your pass it, your learn something.
 
 Source
-
 https://wiki.archlinux.org/index.php/USB_flash_installation_media#Using_dd
-
 https://wiki.alpinelinux.org/wiki/Installing_Alpine_on_HDD_dualbooting
