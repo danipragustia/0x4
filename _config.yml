@@ -12,6 +12,7 @@ config:
   date_format_short: "%b %-d"
 
 header_pages:
+- hire.md
 - about.md
 - articles.md
 
