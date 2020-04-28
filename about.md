@@ -28,6 +28,8 @@ I using old computer from 2015, still good for my daily use. All Software i use 
 ### Contact
 My public key can find [here](https://0x4.me/pubkey.txt).
 
+**If you have the old one, I dont use it anymore. This is the new one**
+
 Best way to contact me is email, if you want send me GPG-mail, you can send me your key. For XMPP you need client support OMEMO.
 - E-Mail / XMPP : danipragustia [at] disroot [dot] org
 - Mastodon : danipragustia [at] koyu [dot] space
