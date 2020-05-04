@@ -6,6 +6,8 @@ permalink: /hire
 
 # Hire me
 
+I have knowledge with Web Development programming like PHP, Javascript and Python as well.
+
 ## Services
 
 ### 1. Web Developement
@@ -24,8 +26,6 @@ Price depends how much I spend time per day, there no contract limit for service
 
 ## Info
 
-You can hire me by sending on danipragustia [at] disroot [dot] org.
-
-I have knowledge with Web Development programming like PHP, Javascript (NodeJS) and Python as well.
+You can hire me by sending an email on danipragustia [at] disroot [dot] org.
 
 If you want asking something, please dont hestiate  [ask me](https://0x4.me/about).
