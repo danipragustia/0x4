@@ -22,6 +22,20 @@ $color-primary-hover: #343a40 !default;
 	color:white;
 }
 
+.footer-box {
+	padding:.5rem;
+	background-color:black;
+	color:white;
+}
+
+.footer-box a {
+	color:grey;
+}
+
+.footer-box a:hover {
+	color:white;
+}
+
 .bg-black {
 	background-color:black !important;
 }
