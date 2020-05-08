@@ -1,0 +1,21 @@
+---
+layout: compress
+---
+<!DOCTYPE HTML>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<head>
+
+  {% include head.html %}
+
+</head>
+<body>
+  {% include navbarmain.html %}
+
+  <div class="container mb-3 mt-3">
+    {{ content }}
+  </div>
+
+  {% include footer.html %}
+
+</body>
+</html>

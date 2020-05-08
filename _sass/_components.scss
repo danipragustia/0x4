@@ -1,6 +1,36 @@
 $color-primary: #6c757d !default;
 $color-primary-hover: #343a40 !default;
 
+.nav-menu a {
+	font-size:1.2rem !important;
+	color:grey;
+}
+
+.nav-menu a:hover {
+	color:white;
+}
+
+.main-jumbo {
+	background-color:black;
+}
+
+.main-header {
+	color:white;
+}
+
+.main-header:hover {
+	color:white;
+}
+
+.bg-black {
+	background-color:black !important;
+}
+
+.navbar-text {
+	color:white;
+	font-weight:bold;
+	padding-left:.5rem;
+}
 
 .nav-link {
   font-weight:bold;
@@ -40,6 +70,8 @@ $color-primary-hover: #343a40 !default;
 .navbar-toggler:focus {
   outline:0 !important;
 }
+
+
 
 blockquote {
 	border-left: 5px solid grey;
