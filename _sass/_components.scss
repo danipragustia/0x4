@@ -1,6 +1,13 @@
 $color-primary: #6c757d !default;
 $color-primary-hover: #343a40 !default;
 
+@media (max-width: 768px) {
+	.navbar-text {
+		display:none;
+	}
+}
+
+
 .nav-menu a {
 	font-size:1.2rem !important;
 	color:grey;
