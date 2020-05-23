@@ -22,7 +22,7 @@ I can help solve your problem about IT stuff with best possible way.
 
 ## How about price?
 
-Price depends how much I spend time per day, there no contract limit for services. Price also negotiable.
+Price depends how much I spend time per day, Price also negotiable.
 
 ## Info
 
