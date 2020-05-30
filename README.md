@@ -1,4 +1,7 @@
 # 0x4
+
+**WARNING: This project is archived and no longer update**
+
 > Lightweight Jekyll theme for personal blog
 
  - Simple and minimal design
